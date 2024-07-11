@@ -1,0 +1,34 @@
+{
+  "games": [
+    {
+      "id": "3401",
+      "title": "Simpsons Hit & Run",
+      "genre": "Action ",
+      "description": "Best Game ever created ",
+      "releaseDate": "2003-09-16",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Simpsons_Hit_and_Run_cover.png"
+    },
+    {
+      "id": "a987",
+      "title": "Mario Kart Double Dash",
+      "genre": "Racing",
+      "description": "Mad Fun",
+      "releaseDate": "2003-11-07",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/78/Mario_Kart_Double_Dash.jpg"
+    }
+  ],
+  "discussions": [
+    {
+      "id": "365b",
+      "title": "Console",
+      "topic": "Playstation",
+      "description": "PS2 is the best "
+    },
+    {
+      "id": "1869",
+      "title": "Mario Kart DD",
+      "topic": "Best Mario Kart Game?",
+      "description": "hell yeah "
+    }
+  ]
+}
